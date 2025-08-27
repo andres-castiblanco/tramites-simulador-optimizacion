@@ -3,8 +3,9 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Optimizacion Catastral IGAC',
-  //description: 'Created with v0',
-  //generator: 'v0.dev',
+  icons: {
+    icon: '/favicon.png', 
+  },
 }
 
 export default function RootLayout({
